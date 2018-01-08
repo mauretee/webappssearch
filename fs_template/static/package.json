@@ -1,0 +1,29 @@
+{
+  "name": "webappsearch",
+  "version": "1.0.0",
+  "description": "Discover amazing web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauretee/webappssearch.git"
+  },
+  "keywords": [
+    "python",
+    "flask",
+    "react",
+    "npm",
+    "webpack"
+  ],
+  "author": "Mauro Javier Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauretee/webappssearch/issues"
+  },
+  "homepage": "https://github.com/mauretee/webappssearch#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
